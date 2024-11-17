@@ -1,0 +1,252 @@
+{
+    "ads": [
+        {
+        "active_ads"   :   "true",
+        "network"      :   "admob",
+        "one_signal"   :   "one_signal_key",
+        "max_ban"      :   "max_ban_ad_unit",
+        "max_int"      :   "max_int_ad_unit",
+        "fan_ban"      :   "fan_ban_ad_unit",
+        "fan_int"      :   "fan_int_ad_unit",
+        "fan_native"   :   "fan_native_ad_unit",
+        "admob_ban"    :   "admob_ban_ad_unit",
+        "admob_int"    :   "admob_int_ad_unit",
+        "admob_native" :   "admob_native_ad_unit"
+        }
+    ],
+    "pins": [
+        "KPOP,https://raw.githubusercontent.com/devandro11/img/refs/heads/main/Pin-up%20Poster%20of%20a%20Fit%20South%20Korean%20Male%20Idol%20Wonh.webp",
+        "Superhero,https://images.nightcafe.studio/jobs/H3bvG0i3wTsY0CWecTbW/H3bvG0i3wTsY0CWecTbW--1--whrhn_11.3636x.jpg",
+        "Santa,https://images.playground.com/99e14d5f-06ab-43fe-ad1d-c6abfbe03736.jpeg",
+        "Influencers,https://upload.wikimedia.org/wikipedia/commons/a/a4/Bella_Poarch_smiling.jpg",
+        "Singers,https://cdn.britannica.com/98/163898-050-B2E2A704/British-sensation-Adele.jpg",
+        "Footballers,https://en.wikipedia.org/wiki/Cristiano_Ronaldo#/media/File:RonaldoAl-Nassr23.jpg",
+        "Actors,https://images.nightcafe.studio/jobs/yC5ecCRKLBMH468Sm5E3/yC5ecCRKLBMH468Sm5E3--1--wq9zi.jpg"
+    ],
+    "data" : [
+        {
+          "name" : "G-DRAGON",
+          "theme" : "KPOP",
+          "img" : "https://upload.wikimedia.org/wikipedia/commons/e/e2/G-DRAGON_CHANEL_Photo_Call_3.jpg",
+          "voice" : "https://github.com/devandro11/api/raw/refs/heads/main/g_dragon_v.mp4",
+          "video" : "https://github.com/devandro11/api/raw/refs/heads/main/g_dragon_v.mp4",
+          "live" : "https://github.com/devandro11/api/raw/refs/heads/main/g_dragon_v.mp4"
+        },
+        {
+          "name" : "Jimin",
+          "theme" : "KPOP",
+          "img" : "https://www.onthisday.com/images/people/jimin.jpg",
+          "voice" : "https://github.com/devandro11/api/raw/refs/heads/main/jimin_fake_v.mp4",
+          "video" : "https://github.com/devandro11/api/raw/refs/heads/main/jimin_fake_v.mp4",
+          "live" : "https://github.com/devandro11/api/raw/refs/heads/main/jimin_fake_v.mp4"
+        },
+        {
+          "name" : "Jungkook",
+          "theme" : "KPOP",
+          "img" : "https://www.onthisday.com/images/people/jungkook.jpg",
+          "voice" : "https://github.com/devandro11/api/raw/refs/heads/main/jung_kook_v.mp4",
+          "video" : "https://github.com/devandro11/api/raw/refs/heads/main/jung_kook_v.mp4",
+          "live" : "https://github.com/devandro11/api/raw/refs/heads/main/jung_kook_v.mp4"
+        },
+        {
+          "name" : "Kim Hyun joong",
+          "theme" : "KPOP",
+          "img" : "https://upload.wikimedia.org/wikipedia/commons/3/32/Kim_Hyun_Joong_2018_Press_Conference_Still_Image.png",
+          "voice" : "https://github.com/devandro11/api/raw/refs/heads/main/kim_hyun_joong_v.mp4",
+          "video" : "https://github.com/devandro11/api/raw/refs/heads/main/kim_hyun_joong_v.mp4",
+          "live" : "https://github.com/devandro11/api/raw/refs/heads/main/kim_hyun_joong_v.mp4"
+        },
+        {
+          "name" : "Lee Donghun",
+          "theme" : "KPOP",
+          "img" : "https://i.pinimg.com/736x/6f/46/51/6f4651e5e1dd34512e89af67b8019726.jpg",
+          "voice" : "https://github.com/devandro11/api/raw/refs/heads/main/lee_donghun_v.mp4",
+          "video" : "https://github.com/devandro11/api/raw/refs/heads/main/lee_donghun_v.mp4",
+          "live" : "https://github.com/devandro11/api/raw/refs/heads/main/lee_donghun_v.mp4"
+        },
+        {
+          "name" : "Lee Min-ho",
+          "theme" : "KPOP",
+          "img" : "https://upload.wikimedia.org/wikipedia/commons/1/17/20220401_Lee_Min-ho_%EC%9D%B4%EB%AF%BC%ED%98%B8_ELLE_Taiwan_%282%29.jpg",
+          "voice" : "https://github.com/devandro11/api/raw/refs/heads/main/lee_min_ho_v.mp4",
+          "video" : "https://github.com/devandro11/api/raw/refs/heads/main/lee_min_ho_v.mp4",
+          "live" : "https://github.com/devandro11/api/raw/refs/heads/main/lee_min_ho_v.mp4"
+        },
+        {
+          "name" : "Park Joon-hee",
+          "theme" : "KPOP",
+          "img" : "https://i.namu.wiki/i/FnxTK2LYadxcOe9_cgYdZfgOGciyEIDIrLhClibcYK_fF9HUWJ6Gax3L5C4EfzBSkB09SPsrgPKrcdsaMDSDRdaflYOJj2usHO2Mo9QZPUineFtux_rWOBlUtwwl2s2_Wxysl2YX9U6X9gbD2Txrhg0gZqoBuFRAziR3Cm2--38.webp",
+          "voice" : "https://github.com/devandro11/api/raw/refs/heads/main/park_junhee_v.mp4",
+          "video" : "https://github.com/devandro11/api/raw/refs/heads/main/park_junhee_v.mp4",
+          "live" : "https://github.com/devandro11/api/raw/refs/heads/main/park_junhee_v.mp4"
+        },
+        {
+          "name" : "Rosé",
+          "theme" : "KPOP",
+          "img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Blackpink_Ros%C3%A9_Rimowa_1.jpg/440px-Blackpink_Ros%C3%A9_Rimowa_1.jpg",
+          "voice" : "https://github.com/devandro11/api/raw/refs/heads/main/rose.mp4",
+          "video" : "https://github.com/devandro11/api/raw/refs/heads/main/rose.mp4",
+          "live" : "https://github.com/devandro11/api/raw/refs/heads/main/rose.mp4"
+        },
+        {
+          "name" : "Sehun",
+          "theme" : "KPOP",
+          "img" : "https://upload.wikimedia.org/wikipedia/commons/9/9b/Sehun_at_a_showcase_on_July_22%2C_2019_%282%29.jpg",
+          "voice" : "https://github.com/devandro11/api/raw/refs/heads/main/sehun.mp4",
+          "video" : "https://github.com/devandro11/api/raw/refs/heads/main/sehun.mp4",
+          "live" : "https://github.com/devandro11/api/raw/refs/heads/main/sehun.mp4"
+        },
+        {
+          "name" : "Song Joong-ki",
+          "theme" : "KPOP",
+          "img" : "https://upload.wikimedia.org/wikipedia/commons/1/13/Song_Joong-ki_at_Style_Icon_Asia_2016.jpg",
+          "voice" : "https://github.com/devandro11/api/raw/refs/heads/main/song_joong_ki_v.mp4",
+          "video" : "https://github.com/devandro11/api/raw/refs/heads/main/song_joong_ki_v.mp4",
+          "live" : "https://github.com/devandro11/api/raw/refs/heads/main/song_joong_ki_v.mp4"
+        },
+        {
+          "name" : "Ronaldo",
+          "theme" : "Footballers",
+          "img" : "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg",
+          "voice" : "https://github.com/devandro11/api/raw/refs/heads/main/ronaldo.mp4",
+          "video" : "https://github.com/devandro11/api/raw/refs/heads/main/ronaldo.mp4",
+          "live" : "https://github.com/devandro11/api/raw/refs/heads/main/ronaldo.mp4"
+        },
+        {
+          "name" : "Mbappé",
+          "theme" : "Footballers",
+          "img" : "https://en.wikipedia.org/wiki/Kylian_Mbapp%C3%A9#/media/File:2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93129_(cropped).jpg",
+          "voice" : "https://github.com/devandro11/api/raw/refs/heads/main/mbappe.mp4",
+          "video" : "https://github.com/devandro11/api/raw/refs/heads/main/mbappe.mp4",
+          "live" : "https://github.com/devandro11/api/raw/refs/heads/main/mbappe.mp4"
+        },
+        {
+          "name" : "Lionel Messi",
+          "theme" : "Footballers",
+          "img" : "https://www.onthisday.com/images/people/lionel-messi.jpg",
+          "voice" : "https://github.com/devandro11/api/raw/refs/heads/main/messi.mp4",
+          "video" : "https://github.com/devandro11/api/raw/refs/heads/main/messi.mp4",
+          "live" : "https://github.com/devandro11/api/raw/refs/heads/main/messi.mp4"
+        },
+        {
+          "name" : "Neymar",
+          "theme" : "Footballers",
+          "img" : "https://en.wikipedia.org/wiki/Neymar#/media/File:Neymar_PSG.jpg",
+          "voice" : "https://github.com/devandro11/api/raw/refs/heads/main/neymar.mp4",
+          "video" : "https://github.com/devandro11/api/raw/refs/heads/main/neymar.mp4",
+          "live" : "https://github.com/devandro11/api/raw/refs/heads/main/neymar.mp4"
+        },
+        {
+          "name" : "Cristiano Ronaldo",
+          "theme" : "Footballers",
+          "img" : "https://data.whicdn.com/images/86571389/original.gifhttps://en.wikipedia.org/wiki/Cristiano_Ronaldo#/media/File:Cristiano_Ronaldo_WC2022_-_02.jpg",
+          "voice" : "https://github.com/devandro11/api/raw/refs/heads/main/cristiano_ronaldo_2.mp4",
+          "video" : "https://github.com/devandro11/api/raw/refs/heads/main/cristiano_ronaldo_2.mp4",
+          "live" : "https://github.com/devandro11/api/raw/refs/heads/main/cristiano_ronaldo_2.mp4"
+        },
+        {
+          "name" : "Bella Poarch",
+          "theme" : "Influencers",
+          "img" : "https://static.wikia.nocookie.net/offlinetvandfriends/images/3/32/Bella1.jpg/",
+          "voice" : "https://github.com/devandro11/api/raw/refs/heads/main/bella_poarch.mp4",
+          "video" : "https://github.com/devandro11/api/raw/refs/heads/main/bella_poarch.mp4",
+          "live" : "https://github.com/devandro11/api/raw/refs/heads/main/bella_poarch.mp4"
+        },
+        {
+          "name" : "Santa Claus",
+          "theme" : "Santa",
+          "img" : "https://images.playground.com/244e93b8-dc7f-430a-b1d1-3b386fd2aa8f.jpeg",
+          "voice" : "https://github.com/devandro11/api/raw/refs/heads/main/christmas.mp4",
+          "video" : "https://github.com/devandro11/api/raw/refs/heads/main/christmas.mp4",
+          "live" : "https://github.com/devandro11/api/raw/refs/heads/main/christmas.mp4"
+        },
+        {
+          "name" : "The Rock",
+          "theme" : "Actors",
+          "img" : "https://images.nightcafe.studio/jobs/DghrXVx1yTBh4Hj5Sjic/DghrXVx1yTBh4Hj5Sjic--1--mf4ae.jpg",
+          "voice" : "https://github.com/devandro11/api/raw/refs/heads/main/the_rock.mp4",
+          "video" : "https://github.com/devandro11/api/raw/refs/heads/main/the_rock.mp4",
+          "live" : "https://github.com/devandro11/api/raw/refs/heads/main/the_rock.mp4"
+        },
+        {
+        "name" : "John Cena",
+        "theme" : "Actors",
+        "img" : "https://images.nightcafe.studio/jobs/TjGSpJq4t5lgqle6RlrX/TjGSpJq4t5lgqle6RlrX--1--dqyih_6x.jpg",
+        "voice" : "https://github.com/devandro11/api/raw/refs/heads/main/john_cena.mp4",
+        "video" : "https://github.com/devandro11/api/raw/refs/heads/main/john_cena.mp4",
+        "live" : "https://github.com/devandro11/api/raw/refs/heads/main/john_cena.mp4"
+        },
+        {
+        "name" : "Adele",
+        "theme" : "Singers",
+        "img" : "https://www.onthisday.com/images/people/adele.jpg",
+        "voice" : "https://github.com/devandro11/api/raw/refs/heads/main/adele.mp4",
+        "video" : "https://github.com/devandro11/api/raw/refs/heads/main/adele.mp4",
+        "live" : "https://github.com/devandro11/api/raw/refs/heads/main/adele.mp4"
+        },
+        {
+        "name" : "Ariana Grande",
+        "theme" : "Singers",
+        "img" : "https://en.wikipedia.org/wiki/Ariana_Grande#/media/File:Ariana_Grande_at_the_Met_Gala_2024_(1).jpg",
+        "voice" : "https://github.com/devandro11/api/raw/refs/heads/main/ariana_grande.mp4",
+        "video" : "https://github.com/devandro11/api/raw/refs/heads/main/ariana_grande.mp4",
+        "live" : "https://github.com/devandro11/api/raw/refs/heads/main/ariana_grande.mp4"
+        },
+        {
+        "name" : "Beyoncé",
+        "theme" : "Singers",
+        "img" : "https://cdn.britannica.com/59/204159-050-5055F2A9/Beyonce-2013.jpg",
+        "voice" : "https://github.com/devandro11/api/raw/refs/heads/main/beyonce.mp4",
+        "video" : "https://github.com/devandro11/api/raw/refs/heads/main/beyonce.mp4",
+        "live" : "https://github.com/devandro11/api/raw/refs/heads/main/beyonce.mp4"
+        },
+        {
+        "name" : "Cardi B",
+        "theme" : "Singers",
+        "img" : "https://cdn.britannica.com/85/229185-050-3CC1C44E/Cardi-B-2019.jpg",
+        "voice" : "https://github.com/devandro11/api/raw/refs/heads/main/cardi_b.mp4",
+        "video" : "https://github.com/devandro11/api/raw/refs/heads/main/cardi_b.mp4",
+        "live" : "https://github.com/devandro11/api/raw/refs/heads/main/cardi_b.mp4"
+        },
+        {
+        "name" : "Taylor Swift",
+        "theme" : "Singers",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/e/e8/TaylorSwiftApr09.jpg",
+        "voice" : "https://github.com/devandro11/api/raw/refs/heads/main/taylor_swift.mp4",
+        "video" : "https://github.com/devandro11/api/raw/refs/heads/main/taylor_swift.mp4",
+        "live" : "https://github.com/devandro11/api/raw/refs/heads/main/taylor_swift.mp4"
+        },
+        {
+        "name" : "Johnny Depp",
+        "theme" : "Actors",
+        "img" : "https://cdn.britannica.com/89/152989-050-DDF277EA/Johnny-Depp-2011.jpg",
+        "voice" : "https://github.com/devandro11/api/raw/refs/heads/main/johny_depp.mp4",
+        "video" : "https://github.com/devandro11/api/raw/refs/heads/main/johny_depp.mp4",
+        "live" : "https://github.com/devandro11/api/raw/refs/heads/main/johny_depp.mp4"
+        },
+        {
+        "name" : "IronMan",
+        "theme" : "Superhero",
+        "img" : "https://images.nightcafe.studio/jobs/HOawH7wffnkqBnIKjQu9/HOawH7wffnkqBnIKjQu9--1--ytm5x.jpg",
+        "voice" : "https://github.com/devandro11/api/raw/refs/heads/main/ironman.mp4",
+        "video" : "https://github.com/devandro11/api/raw/refs/heads/main/ironman.mp4",
+        "live" : "https://github.com/devandro11/api/raw/refs/heads/main/ironman.mp4"
+        },
+		{
+        "name" : "venom",
+        "theme" : "Superhero",
+        "img" : "https://images.nightcafe.studio/jobs/kn5rBUOLCDdg3PWdo3Nv/kn5rBUOLCDdg3PWdo3Nv--1--c0fkn.jpg",
+        "voice" : "https://github.com/devandro11/api/raw/refs/heads/main/venom.mp4",
+        "video" : "https://github.com/devandro11/api/raw/refs/heads/main/venom.mp4",
+        "live" : "https://github.com/devandro11/api/raw/refs/heads/main/venom.mp4"
+        },
+		{
+        "name" : "Homelander",
+        "theme" : "Superhero",
+        "img" : "https://images.nightcafe.studio/jobs/h3gFtySqp0RiIzC4956F/h3gFtySqp0RiIzC4956F--1--wy8pf.jpg",
+        "voice" : "https://github.com/devandro11/api/raw/refs/heads/main/homelander.mp4",
+        "video" : "https://github.com/devandro11/api/raw/refs/heads/main/homelander.mp4",
+        "live" : "https://github.com/devandro11/api/raw/refs/heads/main/homelander.mp4"
+        }
+    ]
+}
